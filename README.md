@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucca</h1>
-<h3 align="center">Beggnier full stack programmer</h3>
+<h3 align="center">Beginner web developer</h3>
 
 - 👨‍💻 All of my projects are available at [luccazavarize.com.br](luccazavarize.com.br)
 
