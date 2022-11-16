@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucca</h1>
 <h3 align="center">Beginner web developer</h3>
 
-- 👨‍💻 All of my projects are available at [luccazavarize.com.br](luccazavarize.com.br)
+- 👨‍💻 All of my projects are available at [https://luccazavarize.netlify.app/](https://luccazavarize.netlify.app/)
 
 - 💬 Ask me about **react, node, typescript, sql**
 
